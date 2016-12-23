@@ -1,0 +1,7 @@
+pyndn (2.4~beta1-1) UNRELEASED; urgency=medium
+
+  * Initial packaging release
+    Python 3 is not supported as the python3-protobuf dependency is not
+    available
+
+ -- Philip Withnall <withnall@endlessm.com>  Thu, 22 Dec 2016 11:30:00 +0000
