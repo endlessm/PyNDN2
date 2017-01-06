@@ -1,4 +1,0 @@
-# https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=823628
-pyndn source: unknown-testsuite autopkgtest-pkg-python
-# Upstream releases do not provide GPG signatures
-pyndn source: debian-watch-may-check-gpg-signature
