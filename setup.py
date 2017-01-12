@@ -24,7 +24,7 @@ elif sys.version_info[0] == 3:
         requirements.append('asyncio')
 
 setup(
-    name='PyNDN',
+    name='pyndn',
 
     version='2.4b1',
 
